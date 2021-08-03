@@ -1,0 +1,66 @@
+/* this is the start of my project*/
+header h1 {
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+header footer {
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+header {
+  text-align: center;
+  color: black; 
+  padding-bottom: 30px;
+  background-color: white;
+  border-style: solid;
+}
+
+main {
+  background-color: beige;
+  color: black;
+  font-weight: 700;
+}
+
+article {
+  padding-bottom: 20px;
+  margin: auto;
+  width: 450px;
+}
+
+h2 {
+  text-align: center;
+}
+
+footer {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+      padding-top: 0px;
+  text-align: center;
+}
+
+a:link {color: blue;}
+a:visited {color: darkblue;}
+a:hover {color: blueviolet;}
+a:active {color: red;}
+/*kind of like this unique colors for the links*/
+
+.list, .about-me, about-maksim {
+  padding-bottom: 50px;
+}
+
+footer {
+    padding: 20px 0 10px;
+}
+
+.no-top-margin {
+  margin-top: 0;
+  color: black;
+  margin-bottom: 0px;
+}
+.bottom-footer {
+  border-style: solid;
+  background-color: white;
+  font-size: 25px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+/*for whatever reason I am not the best designer but I did my best wih this one*/
